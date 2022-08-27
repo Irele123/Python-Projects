@@ -1,0 +1,17 @@
+Guess the number
+
+step 1
+
+find the random 1-100 number
+
+step 2 
+
+intro interface
+
+step 3 
+
+ask user for type
+
+step4 
+
+loop the process
